@@ -1,0 +1,40 @@
+ @import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200&family=Merriweather+Sans:ital,wght@1,500&display=swap');
+
+ header {
+ display: flex;
+ justify-content: end; 
+}
+body{
+  font-family: 'Merriweather Sans', sans-serif;
+}
+h1{
+
+  text-transform: uppercase;  
+  letter-spacing: 2px ; 
+  text-align: center;
+  border-style: groove;
+  border-color: black;
+}
+
+h2{
+border-style: double;
+background-color: coral;
+}
+
+
+
+
+
+   
+
+
+    
+   
+
+
+
+
+
+
+
+
